@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Costes Restaurant</string>
+    <string name="restaurant_name">Costes Restaurant</string>
+    <string name="city">Budapest</string>
+    <string name="location">1092 Budapest Ráday utca 4.</string>
+    <string name="telphone">+3614368435</string>
+    <string name="info">Most voltunk először a Costes étteremben és a Felfedező menüt próbáltuk ki. Összességében jókat tudok írni az étteremről.
+        Már a fogadtatás is rendkívül profi, de ugyanakkor közvetlen volt. Őszintén szólva úgy gondoltuk, hogy kissé feszélyezett lesz a hangulat,
+    vagy a mi hangulatunk lesz az, de ez egyáltalán nem így volt.</string>
+</resources>
